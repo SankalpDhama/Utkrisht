@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "discord-clone-blockchain"
+    "name": "utkrisht"
   },
   "api": {
-    "projectId": "teoka8o6",
+    "projectId": "chr3e5y9",
     "dataset": "production"
   },
   "plugins": [
