@@ -3,10 +3,12 @@
   overflow-y: scroll;
   position: relative;
   background: #2f3136;
+  overflow: hidden;
 }
 
 .conversationsContainer {
   padding: 10px;
+  overflow: hidden;
 }
 
 .conversationListTop {
